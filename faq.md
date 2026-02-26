@@ -68,6 +68,11 @@ Kom je toch met de auto, dan is er aan het Liers Cultuurcentrum een grote gratis
 Aan u!
 </details>
 
+<details markdown="2">
+<summary><b>Kan je ook Monopoly spelen?</b></summary>
+Nee...
+</details>
+
 <details markdown="1">
 <summary><b>Ik heb nog een andere vraag...</b></summary>
 Neem gerust contact met ons op via <a href="mailto:spelforumlier@gmail.com">spelforumlier@gmail.com</a>.
