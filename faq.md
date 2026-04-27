@@ -58,7 +58,7 @@ Absoluut! Het café bevindt zich op het gelijkvloers en er zijn aangepaste toile
 
 Idealiter kom je te voet of met de fiets. Het milieu zal je dankbaar zijn. Er is een fietsenstalling vlakbij de ingang.
 
-Het openbaar vervoer is zeker ook een optie. Het Liers Cultuurcentrum ligt op 1.8 km wandelen van het station van Lier. De bushaltes 'Lier De Mol' en ‘Lier Hoogveldweg’ liggen vlakbij. Plan je route op <a href="www.belgiantrain.be">www.belgiantrain.be</a> en/of <a href="www.delijn.be">www.delijn.be</a>.
+Het openbaar vervoer is zeker ook een optie. Het Liers Cultuurcentrum ligt op 1.8 km wandelen van het station van Lier. De bushaltes 'Lier De Mol' en ‘Lier Hoogveldweg’ liggen vlakbij. Plan je route op <a href="https://www.belgiantrain.be">www.belgiantrain.be</a> en/of <a href="https://www.delijn.be">www.delijn.be</a>.
 
 Kom je toch met de auto, dan is er aan het Liers Cultuurcentrum een grote gratis parking.
 </details>
